@@ -10,7 +10,7 @@ export const projectsData = [
         description: "Agricultural platform with live data integration, crop disease detection, and AI chatbot for farmers.",
         technologies: ["React", "Tailwind CSS", "TypeScript", "Google Gemini API"],
         image: project1,
-        github: "https://github.com/atharv-patki/SIH-FieldSense"
+        
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ export const projectsData = [
         description: "Modern and responsive portfolio showcasing my projects, skills, and professional experience.",
         technologies: ["React", "JavaScript", "Tailwind CSS"],
         image: project2,
-        github: "https://github.com/atharv-patki/Portfolio"
+        
     },
     {
         id: 3,
@@ -26,7 +26,7 @@ export const projectsData = [
         description: "Learning platform that helps students improve their skills through personalized study plans and resources.",
         technologies: ["Python", "Flask", "SQLite", "HTML/CSS"],
         image: project3,
-        github: "https://github.com/atharv-patki/Skill-Based-Study-Buddy"
+        
     },
     {
         id: 4,
@@ -34,6 +34,6 @@ export const projectsData = [
         description: "Stock analysis tool that provides real-time market data, trends, and insights for better investment decisions.",
         technologies: ["Python", "Pandas", "Matplotlib", "APIs"],
         image: project4,
-        github: "https://github.com/atharv-patki/MetricView"
+        
     }
 ];

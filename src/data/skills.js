@@ -5,8 +5,7 @@ export const skillsData = {
         "TypeScript",
         "HTML5",
         "CSS3",
-        "Tailwind CSS",
-        "Responsive Design"
+        
     ],
     backend: [
         "Python",
@@ -20,9 +19,5 @@ export const skillsData = {
         "Git",
         "GitHub",
         "VS Code",
-        "Netlify",
-        "Vercel",
-        "npm",
-        "Vite"
     ]
 };
