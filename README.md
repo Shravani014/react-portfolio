@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+Live Demo :- https://react-portfolio-7nay.onrender.com/
+
 ## 🎯 Objective
 A responsive personal portfolio website showcasing my professional profile, technical skills, and projects for the Advanced Web Programming Formative Assessment 2.
 
@@ -9,7 +11,7 @@ A responsive personal portfolio website showcasing my professional profile, tech
 - **Language:** JavaScript (ES6+)
 - **Styling:** Tailwind CSS
 - **Version Control:** Git & GitHub
-- **Hosting:** Netlify / Vercel
+- **Hosting:** Render
 
 ## ✨ Key Features
 - Responsive design for all devices
